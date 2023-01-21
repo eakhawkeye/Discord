@@ -1,8 +1,8 @@
 Cracked:
-  discord_last_push_epoch: 1674252000
-  discord_webhook_url: https://discord.com/api/webhooks/1066186319769894933/mokHqSTQoBsSfIWQwIBriJdGjXFLetxAGBgAxFIt__1D6ISYL4BHsEB_wkurghIXA6Id
+  discord_last_push_epoch: 0
+  discord_webhook_url: change_me
   feed_url: http://feeds.feedburner.com/CrackedRSS
 IGN:
-  discord_last_push_epoch: 1674283733
-  discord_webhook_url: https://discord.com/api/webhooks/1066148383116496977/---JDRSq_mHbdws3k7INbMc91rsrpuHyPGtFn6__ZDPInNBSpd12vPijS4E0E17dyRBr
+  discord_last_push_epoch: 0
+  discord_webhook_url: change_me
   feed_url: https://feeds.ign.com/ign/games-all
